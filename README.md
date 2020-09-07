@@ -1,4 +1,4 @@
 ## Project Site and Page
-* ctr uwu
+* Ctr uwu
 * Sitemap Post jonggol
 * And More...
