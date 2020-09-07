@@ -2,6 +2,9 @@
 <html>
 <!--CSS Start-->
 <style>
+#header, #outer-wrapper, #post-wrapper, #sidebar-wrapper, #content-wrapper, #aside-wrapper, #footer-wrapper, #nav-menu, #wrapper, .header-wrapper, .backtotop.tutor, .backtotop{display:none;}
+body,html{overflow:hidden;margin:0;padding:0;width:100%;min-height:100vh;}
+body{background:#292b2c;color:#fff;}
 .error-page-box{margin:8% auto 0 auto;max-width:768px;min-width:200px;line-height:normal;font-size:16px;backface-visibility:hidden;transition:all .3s;}
 .error-page-box .error-body hr{background:transparent;display:block;border:none;border-bottom:4px solid rgba(255,255,255,.3)}
 .error-page-box .error-body{padding:20px;font-size:110%;color:#fff;border-radius:5px 5px 0 0}
@@ -26,11 +29,18 @@
 <ul>
 <li>Jika Anda mengetik alamat halaman di <strong>bilah alamat</strong>, pastikan dieja dengan benar.</li>
 <li>Klik <strong>
+<a expr:href='data:blog.homepageUrl' expr:title='data:messages.home'>
 di sini
 </a>
 </strong> untuk kembali ke halaman utama.</li>
 <li>Jika Anda ditautkan ke halaman ini, hubungi administrator dan beri tahu tentang masalah ini.</li>
 </ul>
+</div>
+<div class='error-footer'>
+&#169; <script type='text/javascript'>var TahunSekarang = new Date;document.write(TahunSekarang.getFullYear());</script>
+<a expr:href='data:blog.homepageUrl' expr:title='data:blog.title'>
+<span expr:title='data:blog.title' itemprop='name'><data:blog.title/></span>
+</a>
 </div>
 </div>
 <!-- Page End-->
