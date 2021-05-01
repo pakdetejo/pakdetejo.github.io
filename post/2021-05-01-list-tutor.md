@@ -1,3 +1,8 @@
+--
+layout: post
+title: List
+--
+
 # Tutorial
 
 > ### Install Linux
@@ -6,9 +11,11 @@
 - [Install Linux Di Virtual Machine](#).
 
 > ### Hack WiFI
+
 `Teknik`
 - [Wordlist](#).
 - [Evil twin](#).
+
 `Alat`
 - [Hardware](#)
 - [Software](#)
