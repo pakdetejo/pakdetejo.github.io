@@ -9,7 +9,6 @@
 `Teknik`
 - [Wordlist](#).
 - [Evil twin](#).
-
 `Alat`
 - [Hardware](#)
 - [Software](#)
